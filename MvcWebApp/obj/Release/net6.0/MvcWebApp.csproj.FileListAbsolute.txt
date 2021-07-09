@@ -1,0 +1,5 @@
+C:\Users\lorenzo\source\repos\MvcWebApp\MvcWebApp\obj\Release\net6.0\MvcWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\source\repos\MvcWebApp\MvcWebApp\obj\Release\net6.0\MvcWebApp.AssemblyInfoInputs.cache
+C:\Users\lorenzo\source\repos\MvcWebApp\MvcWebApp\obj\Release\net6.0\MvcWebApp.AssemblyInfo.cs
+C:\Users\lorenzo\source\repos\MvcWebApp\MvcWebApp\obj\Release\net6.0\MvcWebApp.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\source\repos\MvcWebApp\MvcWebApp\obj\Release\net6.0\MvcWebApp.MvcApplicationPartsAssemblyInfo.cache
